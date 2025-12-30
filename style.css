@@ -1,0 +1,66 @@
+/* General body styling */
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 40px;
+  line-height: 1.6;
+  background-color: #fdfdfd;
+  color: #333333;
+}
+
+/* Navigation menu */
+nav {
+  margin-bottom: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #0077cc;
+  font-weight: bold;
+  margin-right: 15px;
+}
+
+nav a:hover {
+  color: #005fa3;
+  text-decoration: underline;
+}
+
+/* Horizontal rule */
+hr {
+  border: 0;
+  height: 1px;
+  background-color: #e0e0e0;
+  margin: 20px 0;
+}
+
+/* Headings */
+h1, h2 {
+  color: #222222;
+}
+
+h1 {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 1.8em;
+  margin-top: 30px;
+}
+
+/* Paragraphs */
+p, li {
+  font-size: 1.1em;
+}
+
+/* Lists */
+ul {
+  margin-left: 20px;
+}
+
+/* Footer placeholder (if needed later) */
+footer {
+  margin-top: 50px;
+  text-align: center;
+  color: #777777;
+  font-size: 0.9em;
+}
